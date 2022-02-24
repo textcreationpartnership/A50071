@@ -1,0 +1,729 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several acts and laws passed by the great and general court or assembly of Their Majesties province of Massachusetts-Bay in New England. Convened and held at Boston, the eighth day of June. 1692. Anno Regni Gulielmi, et Mariæ, Regis et Reginæ Angliæ, Scotiæ, Franciæ, et Hiberniæ, quarto</title>
+            <title>Public General Acts. 1692.</title>
+            <author>Massachusetts. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50071</idno>
+            <idno type="STC">Wing M1016</idno>
+            <idno type="STC">ESTC R217665</idno>
+            <idno type="EEBO-CITATION">99829320</idno>
+            <idno type="PROQUEST">99829320</idno>
+            <idno type="VID">33757</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33757)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1918:4,)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several acts and laws passed by the great and general court or assembly of Their Majesties province of Massachusetts-Bay in New England. Convened and held at Boston, the eighth day of June. 1692. Anno Regni Gulielmi, et Mariæ, Regis et Reginæ Angliæ, Scotiæ, Franciæ, et Hiberniæ, quarto</title>
+                  <title>Public General Acts. 1692.</title>
+                  <author>Massachusetts. Council.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Benjamin Harris, printer to His Excellency, the Governour and Council,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages have print show-through, with slight loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33757:1" rendition="simple:additions"/>
+            <p>Several ACTS AND LAWS Paſſed by the Great and General Court or Aſſembly of Their
+Majeſties Province of the Maſſachuſetts-Bay, in NEW ENGLAND.</p>
+            <p>Convened and Held at <hi>Boston,</hi> the Eighth Day of <hi>June.</hi> 1692 <hi>Anno Regni
+Gulielmi, et Mariae, Regis et Reginae Angliae, Scotiae, Franciae, et Hiberniae, Quarto</hi>
+            </p>
+            <p>
+               <hi>BOSTON,</hi> Printed by <hi>Benjamin Harris,</hi> Printer to His Excellency, the Governour
+and Council. 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Acts">
+            <div n="local laws" type="Act">
+               <pb facs="tcp:33757:2"/>
+               <pb n="1" facs="tcp:33757:2"/>
+               <opener>
+                  <dateline>Province of the MASSACH<g ref="char:V">Ʋ</g>SETS-BAY.</dateline>
+               </opener>
+               <head>An Act, For Continuing the Local Laws, to Stand in Force, till November the 10th.
+1692.</head>
+               <p>
+                  <hi>BE it Ordered and Enacted,</hi> By the Governour, Coun<g ref="char:EOLhyphen"/>cil and Repreſentatives Convened in
+General Aſſembly, and it is hereby, <hi>Ordered and Enacted,</hi> By the Autho<g ref="char:EOLhyphen"/>rity of the
+Same, That all the Local Laws Reſpectively Ordered and Made by the Late Governour, and Company of
+the <hi>Maſſa<g ref="char:EOLhyphen"/>chuſets-Bay,</hi> and the Late Government of <hi>New Plymouth,</hi> being not
+Repugnant to the <hi>Laws of England,</hi> nor Incon<g ref="char:EOLhyphen"/>ſiſtent with the Preſent Conſtitution
+and Settlemtent by Their <hi>Majeſties Royal Charter,</hi> Do Remain and Continue in <hi>Full
+Force</hi> in the Reſpective Places, for which they were Made and Uſed, until the Tenth Day of
+<hi>November</hi> Next; Except in Caſes where other Proviſion is or ſhall be made by this
+Court, or Aſſembly.</p>
+               <p>And all Perſons are Required to conform themſelves accordingly; And the ſeveral Juſtices
+are hereby Impowred to the Execution of Said Laws as the Magiſtrates formerly were.</p>
+            </div>
+            <div n="tax arrears" type="Act">
+               <opener>
+                  <dateline>Province of the Maſſachuſetts-Bay,</dateline>
+               </opener>
+               <head>An Act For Enforcing the Collecting and Paying in the Arrears of Publick Aſſeſsments,
+&amp;c.</head>
+               <p>
+                  <hi>WHereas</hi> by the Late Governments within the Colonies of the <hi>Maſſachuſets</hi>
+and <hi>New-Plimouth,</hi> now by Their Majeſties ROYAL CHARTER United and Incorporated, Several
+Publick Taxes and Aſſeſsments have reſpectively been granted for the Security and Defence
+of Their Majeſties Subjects and Intereſts, and the Defraying of the Publick Charges ariſing
+by the War, with Their Majeſties E<g ref="char:EOLhyphen"/>nemies, <hi>French</hi> and <hi>Indians,</hi> ſince the
+Firſt Day of <hi>October,</hi> ONE THOUSAND SIX HUNDRED EIGHTY NINE. And have been
+<pb n="2" facs="tcp:33757:3"/>committed unto the Conſtables or other Perſons appointed Collectors with<g ref="char:EOLhyphen"/>in
+the Reſpective Towns and Villages, to Collect and Gather in, the Time pre<g ref="char:EOLhyphen"/>fixed for paying in of
+the ſame unto the Treaſurers or Receivers reſpectively ap<g ref="char:EOLhyphen"/>pointed in the ſaid Colonies
+being ſome time ſince paſt, and a conſiderable part of every of the ſaid
+Aſſeſsments being behind Uncollected, of at leaſt not paid in unto the ſaid Treaſurers
+or Receivers, and the Country being Indebted unto ſeveral particular Perſons for Service done,
+And others who have advanced Mo<g ref="char:EOLhyphen"/>neys for carrying on and defraying of the Charges ariſing by the
+War, upon the Credit of ſaid Aſſeſsments.—</p>
+               <p>
+                  <hi>BE if therefore Ordered and Enacted</hi> By the Governour, Council, and Repreſentatives
+Convened in General Aſ<g ref="char:EOLhyphen"/>ſembly; And it is hereby <hi>Ordered and Enacted</hi> By the Autho<g ref="char:EOLhyphen"/>rity
+of the ſame, That all and every Conſtable and Conſtables or other Collect<g ref="char:EOLhyphen"/>ors within the
+Reſpective Towns and Villages within this Province, who at any time ſince the ſaid firſt
+day of <hi>October,</hi> One Thouſand Six Hundred Eighty Nine have had any of the Publick
+Aſſeſsments granted as aforeſaid committed unto them, or any of them to Collect and Pay in
+as aforeſaid, who have not perfected their ſaid Collections, and adjuſted and iſſued
+their Accounts thereof with the Reſpective Treaſurers as by Order of Court, or Warrant they are
+Di<g ref="char:EOLhyphen"/>rected, Be and are hereby fully Authorized and Impowred, to Collect, and Ga<g ref="char:EOLhyphen"/>ther in the
+Arrearges of all ſuch Publick Taxes and Aſſeſsments, And to do and Execute therein all and
+whatſoever ſhall or may be needful for the Effectual Pur<g ref="char:EOLhyphen"/>ſuing of the Same, as by Order or
+Warrant they might at any time heretofore have Lawfully done by ſuch Rules, Methods and
+Directions of Law, as have lately been uſed, and in Force; The Diſmiſſing of any ſuch
+Perſon or Perſons, from his or their Office, of Conſtable or any alteration of the Goverment,
+ſince made notwithſtanding. And all and every ſuch Conſtables or Collectors, are
+like<g ref="char:EOLhyphen"/>wiſe Enjoyned and Required to Make up, Settle, and Adjuſt their Accompts, &amp; Payments,
+of all Publick Aſſeſsments committed unto them, as aforeſaid with the Reſpective
+Treaſurers, or Receivers, as <hi>Per</hi> Order or Warrant, they are Directed on or before the
+firſt Day of <hi>November</hi> next, after the Date hereof. And in caſe any Conſtable, or
+Collector, ſhall Neglect, and Fail of performing his Duty, in this behalf. That then the Sheriff
+of the County by Warrant from the Trea<g ref="char:EOLhyphen"/>ſurer, ſhall Levy all ſuch Arrears, by Diſtreſs,
+&amp; Sale of Goods of ſuch defective Conſtable or Collector. Returning the Overplus (if any
+be,) And if no Goods can be found, then to take the Body of ſuch Conſtable or Collector, and
+Commit him to Priſon. And all ſuch Conſtables or Collectors where the Defect doth not happen,
+through their own Default, ſhall be Relieved by the Town, and the Select men are to make due
+proviſion for the ſame.</p>
+            </div>
+            <div n="collecting arrears" type="Act">
+               <pb n="3" facs="tcp:33757:3"/>
+               <opener>
+                  <dateline>Province of the MASSACH<g ref="char:V">Ʋ</g>SETS-BAY.</dateline>
+               </opener>
+               <head>An Act, For Collecting the Arrears, of Town and Country Rates.</head>
+               <p>
+                  <hi>WHereas</hi> ſeveral Taxes or Aſſeſsments, neceſſary for the Support of the
+Miniſty, and other Publick Charges, ariſing in the ſeveral Counties, and Towns, within this
+Province, have been laid upon the Inhabitants, and Or<g ref="char:EOLhyphen"/>derly committed to the Conſtables or
+Collectors, by the Select men, or Aſſeſſors, in the ſeveral Towns, ſince the firſt
+Day of <hi>May,</hi> in the Year, One Thouſand Six Hundred Eighty and Nine, and in many places
+remains uncollected, and unpaid; in whole, or in part.</p>
+               <p>
+                  <hi>Be it therefore Ordered, and Enacted,</hi> By His Excellency, the Governour, Council, and
+Repreſentatives, in Ge<g ref="char:EOLhyphen"/>neral Aſſembly, and by the Authority of the ſame, it is
+<hi>Enacted,</hi> That all ſuch Conſtables and Collectors, be Authorized, and Required, and are
+hereby Authorized, and Required to Collect all ſuch Rates, or Aſſeſſments ſo committed
+to him, or them, that remain yet Uncollected, and to pay the ſame unto the County Treaſurer in
+each County Reſpe<g ref="char:EOLhyphen"/>ctively, or Select Men in being in each Town Reſpectively where they were
+made, and to be improved to the uſe, or uſes, for the which they were granted, and to finiſh
+their Accompts with them, at or before the Tenth Day of <hi>December</hi> next enſuing, on
+Penalty of Forty Shillings <hi>Per</hi> Month, for every Month's default after the ſaid Tenth Day
+of <hi>December,</hi> to be recovered by the County Treaſurer, or Select Men Reſpectively of
+any ſuch Defective Conſtables or Collectors, at any Court of Pleas in the ſame county. And
+where any Conſtables or Collectors are Dead, or Removed, and the Aſſeſſments committed to
+them, remain Uncollected, or any part thereof; the Select Men are Impowred &amp; Required, to
+depute meet perſons to Collect the ſame, and the perſons ſo deputed are required to Collect
+what ſo remains, and to pay the ſame accordingly.</p>
+               <p>And it is further ORDERED, that in any County. Town or Towns, where ſuch Tax or Taxes, have
+been agreed on ſince the ſaid firſt Day of <hi>May,</hi> and not Aſſeſſed upon the
+Inhabitants, the Select Men of the ſeveral Towns, are <hi>hereby Required forthwith</hi> to make
+ſuch Rates <hi>or</hi> Aſſeſſments, and commit them with <hi>Warrant to their
+Constables,</hi> on the like Penalty, of Forty Shillings Money <hi>for</hi> every Month's defect,
+and to cauſe them to be collected accompted <hi>for</hi> and paid as <hi>aforeſaid.</hi>
+               </p>
+            </div>
+            <div n="granting assessment" type="Act">
+               <pb n="4" facs="tcp:33757:4"/>
+               <opener>
+                  <dateline>Province of the <hi>Maſſachuſetts-Bay.</hi>
+                  </dateline>
+               </opener>
+               <head>An Act, For the Granting to Their Majeſties an Aſ<g ref="char:EOLhyphen"/>ſeſsment upon Polls and
+Eſtates.</head>
+               <p>WE Their Majeſties Loyal and Dutiful Subjects, the Repreſenta<g ref="char:EOLhyphen"/>tives of Their Majeſties
+Province of the Maſſachuſets-Bay in <hi>New-England,</hi> Convened in General Aſſembly,
+being ſenſible of the Neceſſity of Raiſing Moneys for the Defence of Their Majeſties
+Subject, and Intereſts, and Proſecution of the War againſt their <hi>French</hi> and
+<hi>Indian</hi> Enemies, and for the Defraying of other the Publick Char<g ref="char:EOLhyphen"/>ges of the Province. Do
+Unammouſly and Chearfully grant unto Their Moſt Excellent Majeſties, their Heirs and
+Succeſſors, to the End and Intents afore<g ref="char:EOLhyphen"/>ſaid, a Rate or fax to be Aſſeſſed upon the
+Free-holders, Inhabitants, and other Their Majeſties Subjects, Reſident within the ſaid
+Province, in manner as is here<g ref="char:EOLhyphen"/>after after <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; be
+paid in Mony, or to the Satisfaction of the Treaſurer</p>
+               <p>And Pray that it may be <hi>Enacted,</hi> And be it accordingly <hi>Enact<g ref="char:EOLhyphen"/>ed</hi> By the
+Governour, Council and Repreſentatives, Convened in General Aſſembly. And it is <hi>Enacted
+and Ordained</hi> by the Autho<g ref="char:EOLhyphen"/>rity of the ſame. That the Treaſurer do forthwith ſend forth
+his War<g ref="char:EOLhyphen"/>rants to the <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Men of each Town within this
+Province, requiring the ſaid Select Men, to Cauſe the Inhabitants of ſuch Town to meet
+together ſome time in the Month of <hi>July</hi> next; who being ſo Aſſembled, are Required
+to Chooſe one of their Free-holders to be a Commiſſioner for ſaid Town, which
+Commiſſioner together with the Select-Men within the Month of <hi>August</hi> fol<g ref="char:EOLhyphen"/>lowing,
+ſhall make a true Liſt of all the Male Perſons in the ſaid Town, from ſixteen Years Old
+and Upwards; and a true Eſtimation of the Juſt Yearly Vaine and Income, ſo near as they can
+by all lawful means, which they may uſe, of all Eſtates Real and Perſonal being, or reputed
+to be the Eſtate of all and every the Perſons in the ſame Town, or under their Cuſtody or
+Manage<g ref="char:EOLhyphen"/>ment. All which Perſons and Eſtates, are by the ſaid Commiſſioner and Select-Men
+to be Taxed and Aſſeſſed as followeth, <hi>viz.</hi> Every Perſon aforeſaid at Ten
+Shillings by the Poll (except the Members of the Council, Settled Mi<g ref="char:EOLhyphen"/>niſters, and Grammar
+School-Maſters, and others Devoted to the Miniſtry, and Students or the Colledge) and all
+Houſes, Lands, Stock, Goods and Merchan<g ref="char:EOLhyphen"/>dizes and Eſtates whatever, Real and Perſonal at a
+quarter part of one years Value or Income thereof. All perſons who through Age or Infirmity, are
+un<g ref="char:EOLhyphen"/>able to manage their Affairs, are to be free of the Poll-Tax; at the diſcretion of the
+Select-Men.</p>
+               <p>And it is further <hi>Enacted,</hi> That the Commiſſioner of each Town, upon the Firſt
+<hi>Wedneſday</hi> of <hi>September</hi> next, ſhall carry the Liſts of ſaid Town, unto the
+Shire Town, within the ſame County, where the Commiſſioners of
+<pb n="5" facs="tcp:33757:4"/>the ſeveral, Towns ſhall meet together to Peruſe, Examine, Correct and
+Per<g ref="char:EOLhyphen"/>fect the ſaid Liſts; which Liſts ſo Examined, Perfected and Signed by the ma<g ref="char:EOLhyphen"/>jor part
+of the ſaid Commiſſioners ſo met, ſhall by one of the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners, whom the
+reſt ſhall appoint thereto, be forthwith Tranſmitted unto the Treaſurer, with upon the
+Receipe thereof, ſhall Iſſue forth his Warrants to the Conſtables of the Reſpective
+Towns, to Collect the Sum Total of each Liſt upon the Inhabitant of ſuch Towns, according to
+their reſpective proportion: And in caſe any perſon or perſons ſhall neglect, or refuſe
+to make payment of the Sum or Sums ſo Aſſeſſed upon them; then to Levy the ſame by
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Sale of Goods of ſuch perſon or perſons
+ſo neglecting of refuſing; returning the Over-plus, if any be. And the Conſtables are to pay
+in unto the Treaſurer the one half of the ſaid Tax, at or before the Twenty Fifth of
+<hi>December</hi> next, and the other Half at or before the Firſt Day of <hi>May</hi> following,
+and make up their Accompts with the ſaid Preaſurer by the firſt of <hi>June</hi> next, on
+pain of Forfeiting Ten Pounds in Mony unto Their Majeſties, for the Sup<g ref="char:EOLhyphen"/>port of the Government.
+As alſo to pay all Arrears of Said Aſſeſſments, The Said TEN POUND Forfeiture: And
+Arrears to be Sued for, and Reco<g ref="char:EOLhyphen"/>vered by the Treaſurer, in the Inferiour Court of Pleas, in the
+County where ſuch Conſtable lives, by Bill, Plaint, Action or Information.</p>
+               <p>Provided alſo, that where Perſons, who are not Settled Inhabitants, and their Eſtates
+being Rated, yet are removed and gone before the ſame can be Collect<g ref="char:EOLhyphen"/>ed, it ſhall be abated to
+the Conſtable that was to Collect the ſame. Certifi<g ref="char:EOLhyphen"/>cate thereof being given by the
+Select-Men.</p>
+               <p>
+                  <hi>And it is further Enacted by the Authority</hi> aforeſaid, That this Act for the granting
+to Their Majeſties an Aſſeſsment upon Polls and Eſtates, ſhall continue in Force only
+for this preſent Levy, and no longer. Any thing to the contrary notwithſtanding.</p>
+            </div>
+            <div n="shipping impost" type="Act">
+               <opener>
+                  <dateline>Province of the MASSACH<g ref="char:V">Ʋ</g>SETS-BAY.</dateline>
+               </opener>
+               <head>An Act, For Impoſt, Exciſe, and Tonnage of Ship<g ref="char:EOLhyphen"/>ping.</head>
+               <p>
+                  <hi>WE Their Majesties most Loyal, and Dutiful Subjects, the Repreſentatives, of this their
+Majeſties Province, Conve<g ref="char:EOLhyphen"/>ned in General Aſſembly, being duely ſenſible of the great
+Charges and Expences, which have already ariſen, and must neceſſarily be Daily Growing and
+Increaſing, in Defending and Securing, of Their Majesties Subjects and Intereſts, and in the
+Proſecuting of the War, againſt their French and Indian Enemies: have Chearfully and
+<g ref="char:V">Ʋ</g>nanimouſly Given and Granted, and do hereby Give and
+<pb n="6" facs="tcp:33757:5"/>Grant unto their moſt Excellent Majeſties, Their Heirs and Succeſſours,
+to the End and Intent aforeſaid; and for the Defraying of other the necceſſary and Contingent
+Charges, in and about the Support of the Government of this their Majesties Province, the ſeveral
+Duties Impost and Exciſe on the Wines, Liquours and Goods hereafter mentioned. And humbly
+beſeech their Majeſties to accept the ſame.</hi>
+               </p>
+               <p>
+                  <hi>And that it may be Enacted, and be it Enacted,</hi> By the Governour, Council and
+Repreſentatives in General Court Aſſembled. <hi>And it is hereby Enacted, and Ordai<g ref="char:EOLhyphen"/>ned, By
+the Authority of the Same,</hi> That from and after the twenty ninth. Day of this Inſtant
+<hi>June,</hi> In the Year of Our Lord, One Thouſand Six Hundred Ninety and Two there ſhall be
+paid by the Importer, for all <hi>Wines or Liquours,</hi> and <hi>Goods</hi> hereafter ſpecifyed
+that ſhall be Imported into this Province, the Rates hereafter mentioned.</p>
+               <p>That is to ſay, for every <hi>Pipe of common Fyall Wine th ſumme of one Pound,</hi> Every
+<hi>Pipe of Paſſada wine, one Pound Fifteen Shillings,</hi> Every <hi>Pipe of Madera Wine, one
+Pound Ten Shillings,</hi> Every <hi>Pipe of Canary, Mallage, &amp; Sherry Wines, Two Pounds</hi>
+Every <hi>Pipe of Port Wine, one Pound Five Shil<g ref="char:EOLhyphen"/>lings,</hi> and ſo Proportionably for greater or
+leſſer quantities, and for every <hi>Gallen of Rum</hi> or other <hi>Spirits</hi> Imported as
+aforeſaid, Six pence. All which Impoſts as aforeſaid, ſhall be paid in Currant Money of
+this Province, the one half at or before the Landing thereof, the other half to be allowed three
+Month's for payment, Provided there be Bond and Security given to the Commiſſioners ap<g ref="char:EOLhyphen"/>pointed
+by this Act, or ſuch as they ſhall appoint, for the payment thereof at time as aforeſaid.</p>
+               <p>
+                  <hi>And it is further Enacted by the Authority</hi> aforeſaid, That every Merchant or other
+Perſon Importing any Wines or other Liquors into this Province, ſhall be allowed Twelve <hi>per
+Cent</hi> for Leakage: Pro<g ref="char:EOLhyphen"/>vided ſaid Wines have not been filled up Aboard. And that every
+Hogſhead of Wine or other Liquors that ſhall not have full ſeven Inches left therein, and
+e<g ref="char:EOLhyphen"/>very Butt or Pipe of Wine, or other Liquors that hath not nine Inche; left therein ſhall be
+accomred for Outs, and the Merchant or Importer to pay no Impoſt or Duty for the ſame.</p>
+               <p>
+                  <hi>And it is hereby further Enacted and Decla<g ref="char:EOLhyphen"/>red by the Authority aforeſaid.</hi> That if
+all or any Wines or Liquors as aforeſaid be Landed, and afterwards be Exported out of the
+Pro<g ref="char:EOLhyphen"/>vince within Nine Months after Importation thereof, there ſhall be Repayed or Diſcounted by
+ſaid Commiſſioners, or their Order, unto the Importers or their Aſſigns, two third parts
+of what they Paid or Secured to be paid, for ſo much as they Export; he or they making Oath, That
+it is the ſame Wines, or Liquors, for which the whole Duty had been duly paid or ſecured to be
+paid: And that its Exported within the time limited as aforeſaid by this Act.</p>
+               <p>
+                  <hi>And it is alſo Enacted</hi> by the Authority aforeſaid, That for all Goods, Wares and
+Merchandizes that ſhall be Imported to any part of this Province, after the twenty ninth day of
+this Inſtant <hi>June</hi> (<hi>Sale, Cotton-Wool, Proviſions,</hi> and every other thing of
+the growth and product of <hi>New-En<g ref="char:EOLhyphen"/>gland</hi>
+                  <pb n="7" facs="tcp:33757:5"/>only Excepted) there ſhall be paid by the Importer, the ſeveral Impoſts and
+Duties following, That is to ſay, For every Hundred Pound Sterling in <hi>Engliſh</hi>
+Merchandizes, at the prime coſt in <hi>England</hi> (the Invoices thereof to be produced and
+ſhown) the ſum of Ten Shillings.</p>
+               <list>
+                  <item>For every Hogſhead of Sugar, one ſhilling.</item>
+                  <item>For every Hogſhead of Molaſſes, ſix-pence.</item>
+                  <item>For every Hogſhead of Tobacco, ſix-pence.</item>
+                  <item>For every Ton of Logg-wood, one ſhilling.</item>
+               </list>
+               <p>And for all other Commodities, Goods, Wares, and Merchandizes (except as before excepted) One
+Penny for every Twenty Shillings value here. All Entries where the Impoſt or Duty to be paid,
+doth not exceed Four Shillings, to be made without Charge to the Importer. And not more than
+ſix-pence to be paid for any other ſingle Entry to what value ſoever.</p>
+               <p>And the better to prevent Fraud, <hi>It is further Enacted.</hi> By the Authority aforeſaid,
+That all Merchants, Factors, or other Perſon or Perſons, Importers, being Owners of, or having
+any of the Wines, Liquors, Goods, Wares, and Merchandizes Conſigned to them, that by this Act are
+liable to pay Impoſt or Duty. Such Perſon or Perſons ſhall by themſelves, or, order,
+cauſe the ſame to be Entred with ſaid Commiſſioners or ſuch as they ſhall ap<g ref="char:EOLhyphen"/>point;
+and pay their Duty, or ſecure the ſame to be paid, as by this ACT is provided, before ſuch
+Wines, Liquors, Goods, or Merchandize be Landed or Put into any Boat or Veſſel, in order to be
+Landed, on the Forfeiture of ſuch Wines, Liquors, Goods, Wares, and Merchandize, ſo Landed, or
+Put into any Boat or Veſſel, in order to be Landed: One third part to Their Majeſties, one
+third part to the Governour, one third part to the Informer, that ſhall Sue for the ſame, by
+Bill, Plaint or Information, in any Court of Record within this Province: Any thing in this Act, or
+any other to the contrary not<g ref="char:EOLhyphen"/>withſtanding.</p>
+               <p>And all manner of Perſons, are hereby required, to be aiding, and aſſiſt<g ref="char:EOLhyphen"/>ing the ſaid
+Commiſſioners, their Agents, the Informer, Diſcoverer or Seizor of ſuch Wines, Liquors or
+Goods ſo Landed or Unloaden contrary to the true Intent and Meaning of this Act.</p>
+               <p>
+                  <hi>And it is further Enacted,</hi> That it ſhall and may be lawful for ſuch as are Impowred
+or Improved by the Commiſſioners, or for the Informer or Diſcoverer, by Warrant from the
+Lievtenant Governour, or any Juſtice of the Peace, within this Province, (to that purpoſe
+firſt obtain<g ref="char:EOLhyphen"/>ed) with one Conſtable or more, to Search according to Law, all manner of
+Houſes, Cellars, &amp; Ware-houſes, for ſuch Wines &amp; Liquors, as they, or any of them
+ſhall be informed were carried there to be Concealed, in prejudice to the true meaning of this
+Act, and with Intent to defraud Their Majeſties of their ſaid Duties. And ſuch Wines and
+Liquors ſo found, ſhall be forfeited and condemned in manner and form before mentioned. Always
+provided
+<pb n="8" facs="tcp:33757:6"/>that ſuch Search be made in the day time, and within the ſpace of one month
+after the Offence ſuppoſed to be committed.</p>
+               <p>Provided alſo, That if the Information, whereupon any Houſe ſhall come to be Searched,
+ſhall prove to be falſe, That then, and in ſuch caſe, the Par<g ref="char:EOLhyphen"/>ty injured ſhall recover
+his full Damages and Coſts againſt the Informer, by Action of Treſpaſs to be therefore
+brought againſt ſuch Informer:</p>
+               <p>
+                  <hi>And it is further Enacted and Ordained,</hi> By the Authority aforeſaid. That there
+ſhall be given and granted, and paid unto Their Majeſties, their Heirs and Succeſſors for
+the Uſes aforeſaid. An Exciſe upon all <hi>Wines, Brandy, Rhum,</hi> and other Diſtilled
+Liquors, <hi>Perry, Beer, Ale, Cyder</hi> and <hi>Methiglin,</hi> that ſhall be Sold by Retail in
+any Town or Place within this Province, by thoſe that ſhall Retail the ſame, in manner and
+form as is herereafter Expreſſed and Declared: That is to ſay,
+<list>
+                     <item>For every Gallon of common Fyal-wine, the Sum of Six-pence.</item>
+                     <item>Every Gallon of Paſſado, Malago, Canary, and Sherry, the ſum of Twelve-pence.</item>
+                     <item>Every Gallon of Madera, the ſum of Eight-pence.</item>
+                     <item>Every gallon of Rhum, and all other ſorts of Diſtilled Spirits, the ſum of One
+Shilling.</item>
+                     <item>Every Barril of Perry, Beer, Ale, and Cy<g ref="char:EOLhyphen"/>der, the ſum of One Shilling and
+ſix-pence.</item>
+                     <item>And every gallon of Metheglin, the ſum of Four-pence.</item>
+                  </list>
+               </p>
+               <p>All Currant Money of this Province, and after that Rate, for any greater or leſſer
+Quantities.</p>
+               <p>And for the due and orderly Collecting and Receiving of the Exciſe aforeſaid.</p>
+               <p>
+                  <hi>It is hereby further Enacted and Declared by the Authority aforeſaid,</hi> That all
+Retailers of <hi>Wine, Brandy, Rhum,</hi> and other Diſtilled Liquors, <hi>Perry, Beer, Ale,
+Cyder</hi>
+                  <pb n="9" facs="tcp:33757:6"/>and <hi>Metheglin</hi> within this Province, having any of the ſaid Li<g ref="char:EOLhyphen"/>quors in
+their Reſpective Houſes, or elſe-where belonging unto them; at the time of the Publiſhing
+of this Act, ſhall make due Entry, and pay the Duties and Exciſe aforeſaid, for the ſame as
+is herein before-mentioned. And upon their further Receipt or Pur<g ref="char:EOLhyphen"/>chaſe of all, or any of the
+Liquors before-mentioned, ſhall within twenty four Hours after the Receipt or Purchaſe thereof,
+make Entry with the ſaid Commiſſioners or ſuch Perſon or Perſons that ſhall be
+appointed to Receive and Collect the ſame, and pay the Duties and Exciſe aforeſaid, under the
+penalty of Forfeiture of all ſuch Liquors as ſhall be found in any Retailers Houſe, not being
+duely Entred, and the Exciſe paid as aforeſaid, and every Retailer who ſhall make his own
+Cyder, and Metheglin, Brew his own Beer, or Ale, or Diſtill ſtrong Liquors, ſhall from time
+to time, and at all times, when he or they ſhall make, brew, or diſtill the ſame, make Entry
+with ſaid Commiſſioners, or ſuch other Perſon or Perſons as for that purpoſe ſhall
+be appointed, of all ſuch Cyder, Metheglin, Ale, Beer, or Diſtilled Liquors, by them made,
+brewed or diſtilled, and pay the Exciſe as aforeſaid, under the like penalty and forfeiture
+of all ſuch Liquors as ſhall be found in any Re<g ref="char:EOLhyphen"/>tailers Houſe not Entred, and the Exciſe
+thereof not paid in man<g ref="char:EOLhyphen"/>ner before Expreſſed, and to that end, it ſhall and may be law<g ref="char:EOLhyphen"/>ful to
+and for ſuch <hi>Officer</hi> or <hi>Officers</hi> as by the <hi>Commiſſioners</hi> ſhall
+be <hi>Appointed</hi> and <hi>Impowred,</hi> when, and ſo often; as he or they ſhall think fit,
+in the day time, to <hi>Enter</hi> into any <hi>Retailers</hi> Houſe, <hi>Cellar or
+Ware-houſe</hi> to <hi>Search for</hi> ſuch Wines <hi>or Liquors,</hi> &amp;c. as <hi>are</hi>
+not duely <hi>Entred,</hi> nor the Exciſe paid <hi>for</hi> the ſame, and ſuch Wines <hi>or
+Liquors,</hi> &amp;c. ſo found, to <hi>Seiz</hi> and <hi>Secure</hi> in <hi>order</hi> to the
+<hi>Tryal,</hi> &amp; Conviction thereof, &amp; to gage any Cask or Casks for that end &amp;
+purpoſe. <hi>Provided always, That it ſhall and may be lawful to and for the Commiſſioners
+to agree with any Retailer for his Exciſe, for one whole year, in one intire Sum to be paid
+quarterly, as they in their diſ<g ref="char:EOLhyphen"/>cretion ſhall think fit to agree for, without making any Entry
+as afore<g ref="char:EOLhyphen"/>ſaid.</hi>
+               </p>
+               <p>
+                  <hi>And it is further Enacted by the Authority <hi>aforeſaid That no Perſon or Perſons, on
+any pretence or colour whatſoe<g ref="char:EOLhyphen"/>ver for the future, ſhall or may take in, receive, harbour,
+entertain, keep or conceal, in his or their Dwelling-Houſes, Cellars, or Ware-houſes, any
+quantity or Parcel of Wines or other Liquors, belonging to any Li<g ref="char:EOLhyphen"/>cenſed Perſon or Perſons;
+Retailer or Retailers, under the penalty of forfeiture of Twenty Pounds for every ſuch Quantity
+or Parcel of Wines or other Liquors ſo taken or received, harboured, entertained, kept and
+concealed as aforeſaid.</hi>
+                  </hi>
+               </p>
+               <pb n="10" facs="tcp:33757:7"/>
+               <p>All which Penalties and Forfeitures (one half to Their Majeſties, their Heirs and
+Succeſſors, for the Support of the Government, the other Moi<g ref="char:EOLhyphen"/>ty to the Informer that ſhall
+Sue for the ſame) ſhall be recovered by Bill, Plaint or Information, in any Court of Record
+within this Province where<g ref="char:EOLhyphen"/>in no Eſſoyn, Protection, Wager of Law, <hi>Non vult ulterius
+Projequi</hi> or In<g ref="char:EOLhyphen"/>junction ſhall be allow'd. Any thing in this Act or any other to the
+con<g ref="char:EOLhyphen"/>trary thereof in any wife notwithſtanding. And all manner of Perſons are hereby Required,
+to be aiding and aſſiſting to the Officer or Offi<g ref="char:EOLhyphen"/>cers, as ſhall be appointed to Collect
+and Receive the Exciſe aforeſaid in the due Execution of their Reſpective Offices.</p>
+               <p>
+                  <hi>And it is further Enacted by the Authority</hi> aforeſaid, That there be Commiſſioners
+nominated, appointed and Com<g ref="char:EOLhyphen"/>miſſioned by the Governour and Council, to Receive all Entries,
+and to tranſact and manage all and whatſoever doth relare unto this Act, and the due
+obſervance thereof; which Commiſſioners ſhall Appoint and Employ ſuch and ſo many
+Officers under them, as they ſhall find needful for that purpoſe, the ſaid Commiſſioners,
+and all other Officers to be Employed under them, before their Entring upon the Execution of their
+reſpe<g ref="char:EOLhyphen"/>ctive Offices, ſhall be Sworn before the Governour, or Lievtenant Gover<g ref="char:EOLhyphen"/>nour, or one, or
+more Members of the Council, or two Juſtices of the Peace, to deal truly and faithfully in the
+Execution of the ſame; which aforeſaid Commiſſioners for their own Service and Labour in
+this Affair, and the payment of all their Under Officers and Charges whatſoever ſhall be
+allowed, one juſt ſixth part of all ſuch Moneys as ſhall be Collected and brought into the
+Publick Treaſury, by vertue of this Act, the ſaid Commiſſioners to account with the
+Treaſurer for all their Collections.</p>
+               <p>
+                  <hi>And it is likewiſe further Enacted and De<g ref="char:EOLhyphen"/>clared by the Authority aforeſaid,</hi> That
+every Ship or Veſſel above Twelve Tons coming into any Port or Ports of this Province, to Trade
+or Traffick, the major part of the Owners whereof are not belonging to this Province, ſhall every
+Voyage they make, pay twelve pence <hi>per</hi> Tun, or one pound of good and new Gunpowder for
+each Tun. Such Ship or Veſſel is in Burthen, to be imployed for the Supply of Their Majeſties
+Caſtles and Forts within this Province, to be received by the Treaſurer, or ſuch other, as in
+the ſeveral Ports or Places ſhall be appointed to receive the ſanſe.</p>
+               <p>
+                  <hi>And it is hereby Enacted and Declared by the Authority aforeſaid,</hi> That this preſent
+Act, Entituled, An Act, <hi>For Impoſt, Exciſe; and Tonage of Shipping,</hi> ſhall remain and
+continue in force for the term and ſpace of one whole year, and no longer: A<g ref="char:EOLhyphen"/>ny thing herein
+before contained to the contrary thereof in any wiſe not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            </div>
+            <div n="naval office" type="Act">
+               <pb n="11" facs="tcp:33757:7"/>
+               <opener>
+                  <dateline>Province of the MASSACH<g ref="char:V">Ʋ</g>SETS-BAY.</dateline>
+               </opener>
+               <head>An Act, For the Erecting of a Naval-Office.</head>
+               <p>WHereas by Act of Parliament, made in the Fifteenth Year of King <hi>Charles</hi> the Second,
+Entituled, <hi>An Act for the En<g ref="char:EOLhyphen"/>couragement of Trade,</hi> It is Provided, That no Ship or
+Veſ<g ref="char:EOLhyphen"/>ſel, coming to any Land, Iſland, Plantation, Colony, or Territory, or Place, to His
+Majeſty or Heirs and Succeſſors belonging in <hi>America,</hi> ſhall Lade or Unlade any
+Goods or Commodities whatſoever, un<g ref="char:EOLhyphen"/>til the Maſter or Commander of ſuch Ship or Veſſel,
+ſhall firſt have made known to the Governour of ſuch Land, Iſland, Plantation, Colony
+Terri<g ref="char:EOLhyphen"/>tory or Place, or ſuch other Perſon or Officer, as ſhall be by him thereunto Authorized
+and Appointed, the Arrival of the ſaid Ship or Veſſel, with her Name, and the Name and
+Surname of her Maſter or Commander, and have ſhewn to him, that ſhe is an
+<hi>Engliſh-built</hi> Ship, or made good, by producing Certificate, that ſhe is a Ship or
+Veſſel free, and Navigated with an <hi>Engliſh</hi> Maſter, and three fourth parts of the
+Mari<g ref="char:EOLhyphen"/>ners <hi>Engliſh</hi> Men, under the pain of the Loſs of Ship or Veſſel and Ap<g ref="char:EOLhyphen"/>parel.
+Now for the due and more effectual obſervation of ſaid Act of Parlia<g ref="char:EOLhyphen"/>ment, and that all undue
+Trading contrary to the ſaid Act may be pre<g ref="char:EOLhyphen"/>vented in this Their Majeſties Province of the
+Maſſachuſets-Bay.</p>
+               <p>
+                  <hi>Be it Enacted and Ordained by the Gover<g ref="char:EOLhyphen"/>nour, Council and Repreſentatives in General
+Aſſembly Convened.</hi>
+               </p>
+               <p>
+                  <hi>And it it is hereby Enacted and Ordained by the Authority of the ſame.</hi> That in the
+ſeveral Ports and Places hereafter mentioned, there ſhall be a Naval Office Erected, wherein
+the Officers by the Governour to be appointed, for the ends aforeſaid, ſhall duely attend: That
+is to ſay, At <hi>Boſton,</hi> for the Port of <hi>Boſton</hi> and <hi>Charlstown;</hi> at
+<hi>Salem,</hi> for the Port of <hi>Salem</hi> and <hi>Marble-head;</hi> at <hi>Ipſwich,</hi> at
+<hi>Newbury,</hi> at <hi>Ki<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ery,</hi> at
+<hi>Plimouth,</hi> and at <hi>Briſtol:</hi> At which Naval-Office, all Maſters of Ships or
+Veſſels arriving in this Province, ſhall make their Entry with the Officer, according as the
+ſaid Act of Parliament requires.</p>
+               <p>
+                  <hi>And be it alſo Enacted by the Authority</hi> aforeſaid, That all Maſters of Ships or
+Veſſels, Sailing out of this Pro<g ref="char:EOLhyphen"/>vince, ſhall before their Sailing out thereof, Clear their
+ſaid Ships or Veſ<g ref="char:EOLhyphen"/>ſels in the ſaid Naval-Office. And that an Officer be appointed at
+<hi>Mar<g ref="char:EOLhyphen"/>tha's Vineyard,</hi> and another at <hi>Nantucket,</hi> to Enter and Clear all Veſſels
+paſſing to and from thence, but not to be accounted Ports, for the Unli<g ref="char:EOLhyphen"/>very or Lading of any
+of the Enumerated Commodities. And the Fees in the ſaid Office to be demanded and received,
+ſhall be theſe following, and no other, <hi>viz.</hi>
+               </p>
+               <pb n="12" facs="tcp:33757:8"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">P.</cell>
+                        <cell role="label">Sh.</cell>
+                        <cell role="label">P.</cell>
+                     </row>
+                     <row>
+                        <cell>For Entring and Clearing all Ships and Veſſels Trading to this place from Abroad
+(excepting, <hi>Connecticut, Rhode-I<g ref="char:EOLhyphen"/>ſland, Narraganſet,</hi> and <hi>New-Hampſhire</hi>)
+<hi>viz.</hi> Two Shillings Entring, and Two Shilling Clearing.</cell>
+                        <cell>00</cell>
+                        <cell>4</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Examining and Recording Certificates that Bonds are given acording to the Act of Navigation,
+Two Shillings.</cell>
+                        <cell>00</cell>
+                        <cell>2</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>A Bond given according to the Act of Navigation, and for the Copying of the ſame, to be
+Tranſmitted for <hi>England.</hi> Three Shillings.</cell>
+                        <cell>00</cell>
+                        <cell>3</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>A Certificate of the Lading. Two Shillings.</cell>
+                        <cell>00</cell>
+                        <cell>2</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For Entring and Clearing all Veſſels Trading to and from <hi>Connecticut, Rhode-Iſland,
+Narraganſet,</hi> and <hi>New-Hamp<g ref="char:EOLhyphen"/>ſhioe,</hi> Five Shillings <hi>per</hi> Year, or
+Twelve-pence each Voy age, at the Maſters Choice.</cell>
+                        <cell>00</cell>
+                        <cell>1</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>A Certificate for Veſſels Lading of Goods, carried in them from Port to Port, within the
+Province. One Shilling</cell>
+                        <cell>00</cell>
+                        <cell>1</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>A Certificate for Goods of the Growth of <hi>Europe,</hi> carried out of the Province, to
+other Plantations. Two Shillings.</cell>
+                        <cell>00</cell>
+                        <cell>2</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For every Oath Adminiſtred. Six-pence.</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>6</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And the ſaid Naval Officer is hereby Impowred to Adminiſter the Oaths, required by ſaid
+Act of Parliament.</p>
+            </div>
+            <div n="bills of credit" type="Act">
+               <opener>
+                  <dateline>Province of the <hi>Maſſachuſets-Bay.</hi>
+                  </dateline>
+               </opener>
+               <head>An Act, For Making the Former Bills of Cre<g ref="char:EOLhyphen"/>dit, to Paſs Currant, in Future
+Pay<g ref="char:EOLhyphen"/>ments.</head>
+               <p>WHereas Their Majeſties Affairs within this <hi>Province,</hi> do re<g ref="char:EOLhyphen"/>quire a ſpeedy advance
+for the Defence of the <hi>Province,</hi> and the Proſecution of the <hi>War,</hi> againſt
+<hi>Their French</hi> and <hi>Indian</hi> Enemies, and there being no Stock at preſent in the
+<pb n="13" facs="tcp:33757:8"/>Treaſury to ſupply the ſame, or to defray other the Neceſſary Charges
+for Support of the Government.</p>
+               <p>
+                  <hi>Be it therefore Ordained, and Enacted</hi> By the Governour, Council and Repreſentatives,
+Convened in Ge<g ref="char:EOLhyphen"/>neral Aſſembly. <hi>And it is Enacted, by the Autho<g ref="char:EOLhyphen"/>rity of the ſame,</hi>
+That all Bills of Public Credit iſſued forth, by Order of the <hi>General Court</hi> of the
+late <hi>Colony</hi> of the <hi>Maſſachuſets-Bay,</hi> ſhall paſs Currant within this
+<hi>Province,</hi> in all Payments Equivalent to Money, for the ſum in each Bill reſpectively
+mentioned (excepting all Specialties and Contracts made before Publication hereof;) and in all
+Publick payments, at Five <hi>Per Cent,</hi> advance. And for Encouragement to ſuch Perſon or
+Perſons, as are Poſſeſſors of ſaid Bills, to lend them for the Service of the Publick.
+It is further <hi>Enacted, by the Authority aforeſaid,</hi> That they and every of them, who
+ſhall ſo do, be ſecured by the Publick Taxes and other Revenues, ariſing within this
+<hi>Province</hi> already Granted, and ſhall be reimburſt and paid in money within the ſpace
+of Twelve Moneths, out of the ſaid Taxes and Revenues, ſuch ſum and ſumms, as he or they
+ſhall Reſpectively ſo lend, and deliver unto the Treaſurer of this Their Majeſties
+Province, in Bills as aforeſaid, to be made to appear by Receipt. Provided that ſuch of ſaid
+Bills, and no other, as ſhall be Indorſed by Capt. <hi>Jeremiah Dummer,</hi> and Mr.
+<hi>Francis Burroughs,</hi> ſhall be accounted Currant, Excepting for payment of thoſe Rates,
+that were Grant<g ref="char:EOLhyphen"/>ed before the Arrival of His Excellency the Govenour. And the ſaid Capt.
+<hi>Jeremiah Dummer,</hi> and Mr. <hi>Francis Burroughs,</hi> are hereby appointed to Receive in
+all Bills which any Perſon or Perſons ſhall lend as aforeſaid, and deliver the ſame to
+the Treaſurer.</p>
+               <p>Provided alſo, that all Perſons, who ſhall lend their Bills, as aforeſaid, ſhall have
+Credit for all Summs, which they ſhall have to pay in all publick payments whatſoever; being
+<hi>Bona Fide,</hi> for their own account, to be allowed them by diſcount, upon a Note from the
+Treaſurer.</p>
+            </div>
+            <div n="transporting militia" type="Act">
+               <pb n="14" facs="tcp:33757:9"/>
+               <opener>
+                  <dateline>Province of the <hi>Maſſachuſets-Bay.</hi>
+                  </dateline>
+               </opener>
+               <head>An Act, For Tranſporting of part of the Militia, of the Province, Or Obliging Them to March
+to the Relief of the Neigh<g ref="char:EOLhyphen"/>bouring Provinces, or Colonies.</head>
+               <p>FOrasmuch as in this time of War, there may be Occaſion for the Raiſing of Soul<g ref="char:EOLhyphen"/>diers, and
+Tranſporting or Marching of them out of the Limits of this Province, into the Neighbouring
+Provinces and Colonies of <hi>New Hampſhire, Rhode Iſland. Connecticut, Narraganſett,</hi> or
+<hi>New York,</hi> for the proſecuti<g ref="char:EOLhyphen"/>on of the <hi>French</hi> or <hi>Indian</hi> Enemy, and the
+Defence of Their Majeſties Subjects, and In<g ref="char:EOLhyphen"/>treſts. <hi>Be it Enacted and Ordained by the
+Governour Council and Repreſentatives, Con<g ref="char:EOLhyphen"/>vened in General Court. And it is Enacted By the
+Authority of the ſame,</hi> That in the Vacancy of the General Aſſembly, it ſhall be in the
+Liberty of His Excellency the preſent Go<g ref="char:EOLhyphen"/>vernour, by and with the advice and conſent of the
+Council, to Raiſe, and Tranſport, ſuch part of the Militia of this Province, as they ſhall
+find needful, or Oblige them to March into any of the before-named Provinces or Colonies, for
+<pb n="15" facs="tcp:33757:9"/>the ends aforeſaid, at any Time or Times, with<g ref="char:EOLhyphen"/>in the Space of Six months
+next, and at no time afterward, without their Free and Voluntary conſent, or the conſent of the
+Great and Gene<g ref="char:EOLhyphen"/>ral Court or Aſſembly; any thing in this pre<g ref="char:EOLhyphen"/>ſent Act, contained to the
+contrary thereof, in any wiſe notwithſtanding.</p>
+            </div>
+            <div n="courts of justice" type="Act">
+               <opener>
+                  <dateline>Province of the <hi>Maſſachuſetts-Bay.</hi>
+                  </dateline>
+               </opener>
+               <head>An Act, For the Holding of Courts of Juſtice.</head>
+               <p>FOrasmuch as the orderly Regulation, and Well-Eſtabliſhment of Courts of Juſtice is of
+great Concernment. And the Publick Occaſions with reference to the War, and otherwiſe being
+ſo Preſſing at this Seaſon, that this Court cannot now conveniently Sit longer to Adviſe
+upon, and fully Settle the ſame. But to the Intent that Juſtice be not Obſtructed, or
+Delayed.</p>
+               <p>
+                  <hi>Be it Ordained and Enacted by the Go<g ref="char:EOLhyphen"/>vernour, Council and Repreſentatives, Conve<g ref="char:EOLhyphen"/>ned in
+General Aſſembly, and it is Ordained by the Authority of the ſame.</hi> That on or before the
+laſt <hi>Tueſday</hi> of <hi>July next,</hi> there be a General Seſſions of the Peace, Held
+and Kept in each Reſpective County within this Province, by the Juſtices of the ſame County,
+or three of them at the leaſt, (the firſt Juſtice of the <hi>Quorum</hi> then preſent to
+Preſide) who are hereby Impowred to Hear and Determine all Matters Relating to the Conſervation
+of the Peace, and whatſoever is by them Cognizable according to Law. And to Grant Licenſes to
+ſuch Perſons within the ſame County, being firſt approved of
+<pb n="16" facs="tcp:33757:10"/>by the Select-Men of each Town, where ſuch Perſons Dwell, whom they ſhall
+think fit, to be Employed as Inholders, or Retailers of Wines, or ſtrong Liquors. And that a
+Seſſions of the Peace be ſucceſſively Held and Kept as aforeſaid, within the ſeveral
+Counties at the ſame times, and places, as the County Courts, or Inferior Courts of Common Pleas,
+are herein after ap<g ref="char:EOLhyphen"/>pointed to be Kept.</p>
+               <p>
+                  <hi>And it is further Enacted by the Authority</hi> aforeſaid, That the County Courts, or
+Inferior Courts of Common-Pleas, be Held and Kept in each Reſpective County, by the Juſtices of
+the ſame County, or three of them at the leaſt, (the firſt Juſtice of the <hi>Quorum</hi>
+then preſent to Preſide) at the ſame times and Places they have been formerly Kept according
+to Law, for the Hearing and Determining of all Civil Acti<g ref="char:EOLhyphen"/>ons ariſing or happening within the
+ſame, Triable at the Common Law, according to former Uſage. The Juſtices for Holding and
+Keeping of the ſaid Court within the County of <hi>Suffolk,</hi> to be particularly appointed and
+Commiſſioned by the Governour, with the Advice and Conſent of the Council. And that all
+Writts, or Attachments ſhall Iſſue out of the Clerks Office of the ſaid ſeveral Courts.
+Signed by the Clerk of ſuch Court, di<g ref="char:EOLhyphen"/>rected unto the Sheriff of the County, his Under-Sheriff,
+or Deputy: The Jurors to Serve at ſaid Courts, to be Choſen according to former Cuſtome, by
+and of the Freeholders, and other Inhabitants, qualified as is directed in Their Majeſties Royal
+Charter.</p>
+               <p>This Act to Continue untill other proviſion be made by the GENERAL COURT or ASSEMBLY.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33757:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
